@@ -32,6 +32,7 @@ Execute the C Program for the desired output.
 
 $ ipcs
 
+<img width="754" height="506" alt="image" src="https://github.com/user-attachments/assets/608676d2-d78d-41cb-9ca2-3bab2a536c09" />
 
 
 

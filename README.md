@@ -26,7 +26,8 @@ Execute the C Program for the desired output.
 
 
 ## OUTPUT
-$ ./sem.o 
+<img width="635" height="571" alt="image" src="https://github.com/user-attachments/assets/36d1bf06-ebac-4c61-919e-b9b2c46f5025" />
+
 
 
 $ ipcs
